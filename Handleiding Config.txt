@@ -1,0 +1,7 @@
+1. Om config te veranderen --> config.cpp bij de functie loadConfig() de filenaam veranderen van "config.txt" naar config2.txt"
+2. 1 <= levens =< 3
+3. Speed kan een van de volgende waardes hebben 50, 25, 12.5, 6.75 
+4. Hometiles hebben volgende waardes in de maze 
+   -- x
+   | 
+   y
